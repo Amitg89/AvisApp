@@ -1,0 +1,40 @@
+{
+  "short_name": "AvisApp",
+  "name": "Avis App By Amit Glam",
+  "icons": [
+    {
+      "src": "/AvisApp_files/images/avis-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/AvisApp_files/images/avis-72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+	{
+      "src": "/AvisApp_files/images/avis-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+	{
+      "src": "/AvisApp_files/images/avis-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+	{
+      "src": "/AvisApp_files/images/avis-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+	{
+      "src": "/AvisApp_files/images/avis-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/AvisApp.php",
+  "background_color": "#eeeeee",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
